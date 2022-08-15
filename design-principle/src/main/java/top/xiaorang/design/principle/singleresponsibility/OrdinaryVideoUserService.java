@@ -1,6 +1,4 @@
-package top.xiaorang.design.principle.singleresponsibility.service.impl;
-
-import top.xiaorang.design.principle.singleresponsibility.service.IVideoUserService;
+package top.xiaorang.design.principle.singleresponsibility;
 
 /**
  * @author liulei

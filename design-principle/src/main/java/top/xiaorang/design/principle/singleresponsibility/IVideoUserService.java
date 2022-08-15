@@ -1,4 +1,4 @@
-package top.xiaorang.design.principle.singleresponsibility.service;
+package top.xiaorang.design.principle.singleresponsibility;
 
 /**
  * @author liulei

@@ -1,7 +1,6 @@
-package top.xiaorang.design.principle.singleresponsibility.service;
+package top.xiaorang.design.principle.singleresponsibility;
 
 import org.junit.Test;
-import top.xiaorang.design.principle.singleresponsibility.service.impl.GuestVideoUserService;
 
 /**
  * @author liulei
