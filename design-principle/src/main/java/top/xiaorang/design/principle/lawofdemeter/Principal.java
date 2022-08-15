@@ -1,4 +1,4 @@
-package top.xiaorang.design.principle.demeter;
+package top.xiaorang.design.principle.lawofdemeter;
 
 import java.util.HashMap;
 import java.util.Map;
