@@ -1,5 +1,6 @@
-package top.xiaorang.design.principle.openclosedresponsibility;
+package top.xiaorang.design.principle.openclosed;
 
+import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 
 /**
@@ -9,12 +10,13 @@ import org.junit.Test;
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
  * @since 2022/8/16 2:51
  */
+@Slf4j
 public class ICalculationAreaTest {
     @Test
     public void test() {
         ICalculationArea calculationArea = new CalculationAreaExt();
         double r = 10;
         double circular = calculationArea.circular(r);
-        System.out.printf("半径为%.2f的圆的面积=%.8f", r, circular);
+        log.info("半径为{}的圆的面积={}", r, circular);
     }
 }

@@ -1,4 +1,4 @@
-package top.xiaorang.design.principle.openclosedresponsibility;
+package top.xiaorang.design.principle.openclosed;
 
 /**
  * @author liulei
