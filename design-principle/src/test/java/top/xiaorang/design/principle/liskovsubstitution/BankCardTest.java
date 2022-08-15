@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 
 /**
  * @author liulei
- * @description
+ * @description 银行卡服务测试类
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
  * @since 2022/8/16 5:13
