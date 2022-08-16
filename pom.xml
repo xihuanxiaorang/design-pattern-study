@@ -7,6 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>design-principle</module>
+        <module>factory-method</module>
     </modules>
     <packaging>pom</packaging>
 
