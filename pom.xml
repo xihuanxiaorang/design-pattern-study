@@ -9,6 +9,7 @@
         <module>design-principle</module>
         <module>factory-method</module>
         <module>abstract-factory</module>
+        <module>builder</module>
     </modules>
     <packaging>pom</packaging>
 
