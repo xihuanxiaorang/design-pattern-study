@@ -1,4 +1,4 @@
-package top.xiaorang.design.pattern.dynamic.jdk;
+package top.xiaorang.design.pattern.proxy.dynamic.jdk;
 
 import lombok.extern.slf4j.Slf4j;
 import top.xiaorang.design.pattern.proxy.basic.DynamicDataSourceEntry;
