@@ -7,7 +7,7 @@ import lombok.Data;
  * @description 汽车
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/19 2:09
+ * @date 2022/8/19 2:09
  */
 @Data
 public class Car {

@@ -7,7 +7,7 @@ import org.junit.Test;
  * @description 容器式单例模式测试类
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/20 22:45
+ * @date 2022/8/20 22:45
  */
 public class ContainerSingletonTest {
     @Test

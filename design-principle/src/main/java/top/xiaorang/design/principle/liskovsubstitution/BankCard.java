@@ -11,7 +11,7 @@ import java.math.BigDecimal;
  * @description 银行卡
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/16 4:08
+ * @date 2022/8/16 4:08
  */
 @Slf4j
 @Data

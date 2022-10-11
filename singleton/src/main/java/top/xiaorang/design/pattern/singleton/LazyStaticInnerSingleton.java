@@ -7,7 +7,7 @@ import java.io.Serializable;
  * @description 静态内部类
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/20 20:07
+ * @date 2022/8/20 20:07
  */
 public class LazyStaticInnerSingleton implements Serializable {
     private LazyStaticInnerSingleton() {

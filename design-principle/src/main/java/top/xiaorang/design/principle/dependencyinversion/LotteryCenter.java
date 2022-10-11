@@ -7,7 +7,7 @@ import java.util.List;
  * @description 抽奖中心
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/16 7:13
+ * @date 2022/8/16 7:13
  */
 public class LotteryCenter {
     public List<BetUser> lottery(ILottery lottery, List<BetUser> betUsers, int count) throws Exception {

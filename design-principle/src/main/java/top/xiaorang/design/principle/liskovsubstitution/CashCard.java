@@ -9,7 +9,7 @@ import java.math.BigDecimal;
  * @description 储蓄卡
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/16 5:03
+ * @date 2022/8/16 5:03
  */
 @Slf4j
 public class CashCard extends BankCard {

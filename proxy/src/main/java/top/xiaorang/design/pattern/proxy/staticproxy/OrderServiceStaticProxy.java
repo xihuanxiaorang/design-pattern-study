@@ -13,7 +13,7 @@ import java.util.Date;
  * @description 订单业务层代静态代理类
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/21 22:52
+ * @date 2022/8/21 22:52
  */
 @Slf4j
 public class OrderServiceStaticProxy implements OrderService {

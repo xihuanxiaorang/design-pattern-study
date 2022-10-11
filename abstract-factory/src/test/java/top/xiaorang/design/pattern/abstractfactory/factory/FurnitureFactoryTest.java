@@ -7,7 +7,7 @@ import org.junit.Test;
  * @description 家具厂测试类
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/17 17:22
+ * @date 2022/8/17 17:22
  */
 public class FurnitureFactoryTest {
     @Test

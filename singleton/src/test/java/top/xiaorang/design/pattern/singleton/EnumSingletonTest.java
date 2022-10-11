@@ -13,7 +13,7 @@ import java.lang.reflect.Constructor;
  * @description 枚举式单例模式测试类
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/20 22:05
+ * @date 2022/8/20 22:05
  */
 public class EnumSingletonTest {
     @Test

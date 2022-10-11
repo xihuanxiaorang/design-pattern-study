@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
  * @description 权重抽奖
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/16 7:11
+ * @date 2022/8/16 7:11
  */
 public class LotteryWeightRank implements ILottery {
     @Override

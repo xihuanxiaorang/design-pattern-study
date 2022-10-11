@@ -12,7 +12,7 @@ import top.xiaorang.design.pattern.abstractfactory.sofa.Sofa;
  * @description 装饰风艺术风格的家具厂
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/17 17:20
+ * @date 2022/8/17 17:20
  */
 public class ArtDecoFurnitureFactory extends FurnitureFactory {
     @Override

@@ -12,4 +12,11 @@
 
     <name>proxy</name>
     <url>https://xiaorang.top</url>
+
+    <dependencies>
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+        </dependency>
+    </dependencies>
 </project>

@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * @description 容器式单例模式
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/20 22:41
+ * @date 2022/8/20 22:41
  */
 public class ContainerSingleton {
     private static Map<String, Object> ioc = new ConcurrentHashMap<>();

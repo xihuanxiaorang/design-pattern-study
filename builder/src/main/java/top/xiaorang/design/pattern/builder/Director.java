@@ -5,7 +5,7 @@ package top.xiaorang.design.pattern.builder;
  * @description 主管
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/19 2:24
+ * @date 2022/8/19 2:24
  */
 public class Director {
     /**

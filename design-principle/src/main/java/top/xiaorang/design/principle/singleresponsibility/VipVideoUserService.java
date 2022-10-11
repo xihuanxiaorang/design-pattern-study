@@ -5,7 +5,7 @@ package top.xiaorang.design.principle.singleresponsibility;
  * @description VIP用户
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/16 0:02
+ * @date 2022/8/16 0:02
  */
 public class VipVideoUserService implements IVideoUserService {
     @Override

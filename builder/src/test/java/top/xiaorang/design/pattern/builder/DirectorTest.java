@@ -7,7 +7,7 @@ import org.junit.Test;
  * @description 汽车制造测试类
  * @github <a href="https://github.com/xihuanxiaorang/design-pattern-study">...</a>
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
- * @since 2022/8/19 2:32
+ * @date 2022/8/19 2:32
  */
 public class DirectorTest {
     @Test
