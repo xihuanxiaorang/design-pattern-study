@@ -1,0 +1,7 @@
+logging:
+  level:
+    top:
+      xiaorang:
+        design:
+          pattern:
+            state: debug

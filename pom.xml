@@ -27,6 +27,8 @@
         <log4j.version>1.2.17</log4j.version>
         <fastjson.version>2.0.10</fastjson.version>
         <cglib.version>3.3.0</cglib.version>
+        <spring-boot.version>2.7.4</spring-boot.version>
+        <spring-statemachine.version>3.2.0</spring-statemachine.version>
     </properties>
 
     <dependencyManagement>
