@@ -9,7 +9,7 @@ import org.junit.Test;
  * @Copyright 博客：<a href="https://xiaorang.top">小让的糖果屋</a>  - show me the code
  * @date 2022/10/12 3:51
  */
-public class EditorTest {
+public class ApiTest {
     @Test
     public void test() {
         EventManager eventManager = new EventManager();

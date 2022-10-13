@@ -9,7 +9,7 @@ import org.junit.Test;
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
  * @date 2022/8/17 15:19
  */
-public class LogisticsTest {
+public class ApiTest {
     @Test
     public void test() {
         // 陆路运输

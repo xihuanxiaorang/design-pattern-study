@@ -9,7 +9,7 @@ import org.junit.Test;
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
  * @date 2022/8/17 17:22
  */
-public class FurnitureFactoryTest {
+public class ApiTest {
     @Test
     public void test() {
         // 摩登风格

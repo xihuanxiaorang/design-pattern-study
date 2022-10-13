@@ -9,7 +9,7 @@ import org.junit.Test;
  * @Copyright 博客：<a href="https://xiaorang.top">...</a>  - show me the code
  * @date 2022/8/19 2:32
  */
-public class DirectorTest {
+public class ApiTest {
     @Test
     public void test() {
         Director director = new Director();

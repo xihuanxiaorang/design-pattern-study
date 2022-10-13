@@ -7,7 +7,7 @@ package top.xiaorang.design.pattern.state;
  * @Copyright 博客：<a href="https://xiaorang.top">小让的糖果屋</a>  - show me the code
  * @date 2022/10/12 8:28
  */
-public class PlayerTest {
+public class ApiTest {
     public static void main(String[] args) {
         UI ui = new UI(new Player());
         ui.init();
