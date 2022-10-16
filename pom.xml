@@ -16,6 +16,7 @@
         <module>state</module>
         <module>flyweight</module>
         <module>adapter</module>
+        <module>chain-of-responsibility</module>
     </modules>
     <packaging>pom</packaging>
 
